@@ -16,7 +16,7 @@ This project is a console-based Data Structures and Algorithms application writt
 | Member 1 | J.Afrosha | 23da2-0761 | Linked List & Student Management |
 | Member 2 | S. Azra Banu | 23DA2-0704 | Stack & Queue Implementation |
 | Member 3 | AM.Fathima Naseeha| 23DA2-0726 | BST Tree & Hashing |
-| Member 4 | Am.saula noor |  23Da2-0985| Graph & Campus Traversal |
+| Member 4 | Am.Saula Noor | 23Da2-0985| Graph & Campus Traversal |
 
 ## Data Structures & Key Features
 
