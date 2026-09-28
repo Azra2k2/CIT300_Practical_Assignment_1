@@ -11,6 +11,8 @@ This project is a console-based Data Structures and Algorithms application writt
 
 ## Group Members & Responsibilities
 
+**Group Number: 24**
+
 | Member | Name | ID | Responsibility |
 |---|---|---|---|
 | Member 1 | J.Afrosha | 23DA2-0761 | Linked List & Student Management |
